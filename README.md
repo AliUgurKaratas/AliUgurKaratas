@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliugurkaratas&label=Profile%20views&color=0e75b6&style=flat" alt="aliugurkaratas" /> </p>
 
-- 🌱 I’m currently learning **HTML,CSS,JavaScript,Bootstrap,Git**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, Bootstrap, Git**
 
 - 🤝 I’m looking for help with **Front-End Development**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **aliugurkaratas0@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/aliug/OneDrive/Masa%C3%BCst%C3%BC/Mezuniyet/CV/Ali%20U%C4%9Fur%20Karata%C5%9F%20CV.pdf](file:///C:/Users/aliug/OneDrive/Masa%C3%BCst%C3%BC/Mezuniyet/CV/Ali%20U%C4%9Fur%20Karata%C5%9F%20CV.pdf)
+- 📄 Know about my experiences file:///C:/Users/aliug/Downloads/Ali-U%C4%9Fur-Karata%C5%9F-CV.html
 
 - ⚡ Fun fact **Fun and passionate**
 
